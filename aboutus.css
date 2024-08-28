@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(109, 21, 231);
+}
+
+    .header-text{
+        color: rgb(18, 188, 3);
+        display: flex;
+        position: absolute;
+        top: 20%;
+        right: 20%;
+
+    }
+    
